@@ -1,0 +1,3 @@
+```
+./endianness-checker
+```
